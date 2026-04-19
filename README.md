@@ -7,7 +7,7 @@ The report is structured across five key pages — KPIs, Customer Analysis, Tran
 Overall, this project demonstrates how Power BI can be effectively used to convert raw banking data into actionable insights, helping financial institutions optimize branch performance, better understand their customer base, and make informed strategic decisions.
 
 
-PROJECT PDF FILE: https://drive.google.com/file/d/1ObNhOoCqDwCmm8kpqGqOrNtcpjOS_hMP/view?usp=sharing
+PROJECT PDF FILE: https://drive.google.com/file/d/1StssHGsPkzXoHDD338IR5QY1Cwcz8FdW/view?usp=sharing
 
 
 PROJECT PBIX FILE: https://drive.google.com/file/d/13J0FJEi5gGiH4ugVb7VPP2Ter-XFGTh1/view?usp=sharing
