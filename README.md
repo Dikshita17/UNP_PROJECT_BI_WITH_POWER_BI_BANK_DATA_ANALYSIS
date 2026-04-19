@@ -1,4 +1,4 @@
-# UNP_PROJECT_BI_WITH_POWER_BI_BANK_DATA_ANALYSIS
+# UNP_PROJECT_BI_WITH_POWER_BI_BANKING_DATA_ANALYSIS
 
 I did this project in collaboration with UNP, where the primary objective was to analyze banking data and derive meaningful financial insights using Power BI.
 This project focuses on understanding customer behavior, transaction patterns, and branch performance in a banking environment. The dataset includes key attributes such as customer demographics (gender, age group, city), account types, transaction types, branch names, deposits, withdrawals, balances, and net transaction values. Using Power BI, I transformed raw banking data into interactive and visually appealing dashboards to support data-driven decision-making.
